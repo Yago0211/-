@@ -1,0 +1,5 @@
+teste de operação do servidor
+teste de validação de usuarios
+teste de pagamento
+teste  de busca de veiculo
+teste de satisfação do cliente
