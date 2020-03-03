@@ -1,0 +1,5 @@
+O sistema cadastra usuarios 
+O sistema o sistema da a opção de debito ou credito ou dinheiro
+o sistema apos esse processo  gera nota fiscal ao cliente
+o sistema localiza os carros mais próximos ao usuário para diminuir tempo de espera
+o sistema armazena os dados
