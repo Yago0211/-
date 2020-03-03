@@ -1,0 +1,1 @@
+o sistema sera implementado no windows com versao mobile para IOS e Android
