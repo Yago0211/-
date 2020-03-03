@@ -1,0 +1,9 @@
+aplicacao inicia 
+servidor autentica ID 
+aplicacao solicita dados de veiculos proximos a localizacao enviada ao servidor
+o servidor ve a disponibilidade
+caso nao esteja retorna mensagem falando que está fora de area 
+caso esteja dentro retorna dados dos veiculos proximo
+aplicacao solicita corrida ao servidor
+o sistema acompanha o veiculo e o usuario ate o fim da corrida para realizar a cobranca
+o sistema atribui a nota que o usuario deu a carrida
